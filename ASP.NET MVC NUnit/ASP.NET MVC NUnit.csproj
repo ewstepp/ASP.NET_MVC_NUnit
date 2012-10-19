@@ -52,10 +52,13 @@
     <Content Include="NUnitProject.gif">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
+    <Content Include="Packages\license.txt">
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <Content Include="preview.png">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="Packages\NUnit.2.6.0.12054.nupkg">
+    <Content Include="Packages\NUnit.2.6.1.nupkg">
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <None Include="source.extension.vsixmanifest">

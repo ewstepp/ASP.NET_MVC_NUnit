@@ -27,7 +27,7 @@
   </References>
   <Content>
     <VsPackage>ASP.NET.MVC.NUnit.pkgdef</VsPackage>
-    <CustomExtension Type="NUnit">Packages\NUnit.2.6.0.12054.nupkg</CustomExtension>
+    <CustomExtension Type="NUnit">Packages\NUnit.2.6.1.nupkg</CustomExtension>
     <ProjectTemplate>ProjectTemplates</ProjectTemplate>
     <ItemTemplate>ItemTemplates</ItemTemplate>
   </Content>
